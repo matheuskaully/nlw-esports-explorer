@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🌍 NLW eSports
+=======
+# Next Level Week eSports | Trilha Explorer
+>>>>>>> ba1d2538965af541b002baddb9e3b2ba7fbcbb86
 
 ![preview](./.github/preview.png)
 
